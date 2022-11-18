@@ -1,0 +1,9 @@
+G:\Backbups\VisualProjects\MRE\MRE\bin\Debug\MRE.exe
+G:\Backbups\VisualProjects\MRE\MRE\bin\Debug\MRE.pdb
+G:\Backbups\VisualProjects\MRE\MRE\obj\Debug\MRE.csproj.AssemblyReference.cache
+G:\Backbups\VisualProjects\MRE\MRE\obj\Debug\MRE.Form1.resources
+G:\Backbups\VisualProjects\MRE\MRE\obj\Debug\MRE.Properties.Resources.resources
+G:\Backbups\VisualProjects\MRE\MRE\obj\Debug\MRE.csproj.GenerateResource.cache
+G:\Backbups\VisualProjects\MRE\MRE\obj\Debug\MRE.csproj.CoreCompileInputs.cache
+G:\Backbups\VisualProjects\MRE\MRE\obj\Debug\MRE.exe
+G:\Backbups\VisualProjects\MRE\MRE\obj\Debug\MRE.pdb
